@@ -1,0 +1,28 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"package-lock.json",
+				"yarn.lock"
+			],
+			"folder_exclude_patterns":
+			[
+				"build",
+				"dist",
+				"node_modules",
+				"node_modules_yarn",
+				"client_modules",
+				"bower_components",
+				".tmp"
+			],
+			"path": "/Users/Matthew/programming/adrich/javascript-interview"
+		}
+	],
+	"settings": {
+		"tab_size": 2,
+		"translate_tabs_to_spaces": true,
+		"trim_trailing_white_space_on_save": true
+	}
+}

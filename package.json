@@ -1,0 +1,21 @@
+{
+  "name": "javascript-template",
+  "version": "1.0.0",
+  "description": "Boilerplate JavaScript interview file",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "interview"
+  ],
+  "author": "Matthew Lancellotti",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
